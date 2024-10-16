@@ -10,7 +10,7 @@ Apache JMeter (versão 5.6.3 ou mais recente).
 
 ## Como Usar:
 -**Clone o repositório:-**
-git clone https://github.com/seuusuario/jmeter-youtube-testing.git
+git clone https://github.com/seuusuario/jmeter-youtube-testing.git 
 -**Entre na pasta do projeto:-**
 cd jmeter-youtube-testing
 
