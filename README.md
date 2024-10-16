@@ -1,9 +1,9 @@
 ## Este projeto é sobre testes de performance usando o JMeter para simular o uso do YouTube. O objetivo é verificar como a plataforma se comporta com vários usuários acessando ao mesmo tempo.
 
 ## O que Tem Aqui
-Planos de Teste: Arquivos que definem como os testes serão feitos.
-Configurações: Variáveis que você pode ajustar.
-Resultados: Onde guardamos os dados dos testes.
+-**Planos de Teste:** Arquivos que definem como os testes serão feitos.
+-**Configurações:** Variáveis que você pode ajustar.
+-**Resultados:** Onde guardamos os dados dos testes.
 
 ## O que Você Precisa:
 Apache JMeter (versão 5.6.3 ou mais recente).
