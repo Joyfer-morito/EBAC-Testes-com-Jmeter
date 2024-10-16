@@ -1,31 +1,11 @@
 ## O que Tem Aqui
--**Planos de Teste:** Arquivos que definem como os testes serão feitos.
+- **Test Plan - youtube.jmx**: Plano de teste do JMeter para simular cenários de uso no YouTube.
+- **termos.csv**: Arquivo CSV utilizado nos testes, contendo termos de busca.
 
--**Configurações:** Variáveis que você pode ajustar.
+## O que Você Precisa
+- **Apache JMeter**: Ferramenta para testes de performance.
 
--**Resultados:** Onde guardamos os dados dos testes.
-
-## O que Você Precisa:
-Apache JMeter (versão 5.6.3 ou mais recente).
-
-## Como Usar:
--**Clone o repositório:** 
-git clone
-
--**Entre na pasta do projeto:** 
-cd jmeter-youtube-testing
-
-## Abra o arquivo de teste no JMeter:
-Localize o arquivo .jmx e abra-o no JMeter.
-
-## Ajuste as variáveis, se precisar:
-Você pode mudar algumas configurações no começo do arquivo.
-
-## Execute os testes:
-Rode os testes e veja os resultados.
-
-## Contribuição
-Se você quiser ajudar, fique à vontade para abrir sugestões ou fazer mudanças!
-
-## Licença
-Este projeto está sob a MIT License.
+## Como Usar
+- Baixe e instale o Apache JMeter a partir do [site oficial](https://jmeter.apache.org/).
+- Abra o JMeter e carregue o arquivo **Test Plan - youtube.jmx**.
+- Execute o plano de teste e analise os resultados.
