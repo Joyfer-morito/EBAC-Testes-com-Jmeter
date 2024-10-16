@@ -9,9 +9,9 @@ Resultados: Onde guardamos os dados dos testes.
 Apache JMeter (versão 5.6.3 ou mais recente).
 
 ## Como Usar:
-Clone o repositório:
+-**Clone o repositório:-**
 git clone https://github.com/seuusuario/jmeter-youtube-testing.git
-Entre na pasta do projeto:
+-**Entre na pasta do projeto:-**
 cd jmeter-youtube-testing
 
 ## Abra o arquivo de teste no JMeter:
