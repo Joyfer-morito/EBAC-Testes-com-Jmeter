@@ -2,7 +2,9 @@
 
 ## O que Tem Aqui
 -**Planos de Teste:** Arquivos que definem como os testes serão feitos.
+
 -**Configurações:** Variáveis que você pode ajustar.
+
 -**Resultados:** Onde guardamos os dados dos testes.
 
 ## O que Você Precisa:
